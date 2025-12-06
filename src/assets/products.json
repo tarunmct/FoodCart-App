@@ -1,0 +1,41 @@
+[
+    { "id": 89, "name": "Farmers Pick", "amt": "299", "shop": "Pizza Hut", "ftype": "Pizza", "pic": "https://www.app.tutorjoes.in/img/food/89.jpg", "latest": "No" },
+
+    { "id": 124, "name": "Paper Roast Dosa", "amt": "65", "shop": "Sri Saivihar", "ftype": "Veg", "pic": "https://www.app.tutorjoes.in/img/food/124.jpg", "latest": "No" },
+
+    { "id": 26, "name": "Alfredo Pasta", "amt": "199", "shop": "LAKSHMI FOOD", "ftype": "Veg", "pic": "https://www.app.tutorjoes.in/img/food/26.jpg", "latest": "No" },
+
+    { "id": 9, "name": "Chicken Biryani", "amt": "220", "shop": "Salem RR Briyani", "ftype": "Non-Veg", "pic": "https://www.app.tutorjoes.in/img/food/9.jpg", "latest": "No" },
+
+    { "id": 8, "name": "Momo Thali Meal", "amt": "129", "shop": "Pizza Hut", "ftype": "Pizza", "pic": "https://www.app.tutorjoes.in/img/food/8.jpg", "latest": "No" },
+
+    { "id": 28, "name": "Orange Juice", "amt": "30", "shop": "JUICE MALL", "ftype": "Juice", "pic": "https://www.app.tutorjoes.in/img/food/28.jpg", "latest": "No" },
+
+    { "id": 67, "name": "Milk Halwa", "amt": "60", "shop": "Shri Gupta Sweets", "ftype": "Sweet", "pic": "https://www.app.tutorjoes.in/img/food/67.jpg", "latest": "No" },
+
+    { "id": 120, "name": "Vegetable Soup", "amt": "120", "shop": "Sri Saivihar", "ftype": "Veg", "pic": "https://www.app.tutorjoes.in/img/food/120.jpg", "latest": "No" },
+
+    { "id": 20, "name": "Hyderabadi Chicken Biryani", "amt": "235", "shop": "LAKSHMI FOOD", "ftype": "Non-Veg", "pic": "https://www.app.tutorjoes.in/img/food/20.jpg", "latest": "No" },
+
+    { "id": 133, "name": "Spicy Chicken Afghani", "amt": "356", "shop": "Tandoori Wala", "ftype": "Non-Veg", "pic": "https://www.app.tutorjoes.in/img/food/133.jpg", "latest": "No" },
+
+    { "id": 100, "name": "Veg Seekh Kebab", "amt": "236", "shop": "Tandoori Wala", "ftype": "Veg", "pic": "https://www.app.tutorjoes.in/img/food/130.jpg", "latest": "No" },
+
+    { "id": 71, "name": "Maltal Doodh", "amt": "50", "shop": "Shri Gupta Sweets", "ftype": "Sweet", "pic": "https://www.app.tutorjoes.in/img/food/71.jpg", "latest": "No" },
+
+    { "id": 58, "name": "Jam Roll Cake", "amt": "79", "shop": "Henry & Wolsey", "ftype": "Cake", "pic": "https://www.app.tutorjoes.in/img/food/58.jpg", "latest": "No" },
+
+    { "id": 113, "name": "Curd Vadai", "amt": "30", "shop": "Sri Saivihar", "ftype": "Veg", "pic": "https://www.app.tutorjoes.in/img/food/113.jpg", "latest": "No" },
+
+    { "id": 82, "name": "Momo Choco Sundae Meal", "amt": "319", "shop": "Pizza Hut", "ftype": "Pizza", "pic": "https://www.app.tutorjoes.in/img/food/82.jpg", "latest": "No" },
+
+    { "id": 78, "name": "Classic Walnut Brownie", "amt": "85", "shop": "Shri's Cake Zone", "ftype": "Cake", "pic": "https://www.app.tutorjoes.in/img/food/78.jpg", "latest": "No" },
+
+    { "id": 117, "name": "Cotton Candy Brownie", "amt": "179", "shop": "Cream & Fudge", "ftype": "IceCream", "pic": "https://www.app.tutorjoes.in/img/food/117.jpg", "latest": "Yes" },
+
+    { "id": 77, "name": "Veg Extravaganza Pizza", "amt": "359", "shop": "LAKSHMI FOOD", "ftype": "Pizza", "pic": "https://www.app.tutorjoes.in/img/food/77.jpg", "latest": "No" },
+
+    { "id": 137, "name": "Cream of Chicken Soup", "amt": "150", "shop": "Tandoori Wala", "ftype": "Soup", "pic": "https://www.app.tutorjoes.in/img/food/137.jpg", "latest": "No" },
+
+    { "id": 105, "name": "Paratha", "amt": "65", "shop": "Pugal Ragu Bawa Tiffen Center", "ftype": "Veg", "pic": "https://www.app.tutorjoes.in/img/food/105.jpg", "latest": "No" }
+]

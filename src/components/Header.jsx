@@ -1,8 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import './Header.css'
+import { useCart } from '../components/FoodCartContext'
 
-const Header = ({cart}) => {
+const Header = () => {
+  const {cart} = useCart();
   return (
     <div className='navbar'>
       <div className="logo">Food Cart</div>

@@ -1,11 +1,10 @@
 import React from 'react'
 import './Product.css'
-import { useContext } from 'react'
-import { cartContext } from '../App'
+import { useCart } from '../components/FoodCartContext'
 
 const Product = ({product}) => {
 
-    const {cart,setCart} = useContext(cartContext)
+    const {cart,setCart} = useCart();
     const name = product.name.length > 21 ? product.name.substring(0, 20) + ".."
 : product.name  
 
